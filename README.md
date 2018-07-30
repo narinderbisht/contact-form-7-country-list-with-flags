@@ -2,7 +2,7 @@
 Custom code for contact form 7. Create a country drop down with countries flags.
 
 ## Getting Started
-1. Download the [latest release](https://github.com/narinderbisht/contact-form-7-country-list-with-flags/releases/latest).
+1. Download the [latest release](https://github.com/narinderbisht/contact-form-7-country-list-with-flags/archive/master.zip).
 
 2. Uzip the folder. Copy nb_country Folder inside your wordpress active theme root. web_root/wp-content/themes/active_theme
 
