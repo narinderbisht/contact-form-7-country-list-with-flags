@@ -35,7 +35,7 @@ For example: countryDropdown
 
 # Reference
 
-1. https://github.com/jackocnr/intl-tel-input
+1. https://github.com/mrmarkfrench/country-select-js
 
 # Author website and blog
 
