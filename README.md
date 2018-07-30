@@ -6,7 +6,7 @@ Custom code for contact form 7. Create a country drop down with countries flags.
 
 2. Uzip the folder. Copy nb_country Folder inside your wordpress active theme root. web_root/wp-content/themes/active_theme
 
-3. Edit your theme functions.php file. Past the following code at the end of the file or perfect place according to your theme code.
+3. Edit your theme functions.php file. Paste the following code at the end of the file or any other perfect place according to your theme code.
 
 ```php
 
