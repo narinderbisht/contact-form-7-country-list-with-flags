@@ -1,5 +1,6 @@
 # contact-form-7-country-list-with-flags
-Custom code for contact form 7. Create a country drop down with countries flags.
+Custom code for contact form 7 WordPress Plugin. Create a country drop down with countries flags.
+<img src="https://github.com/narinderbisht/contact-form-7-country-list-with-flags/blob/master/screenshot.png" alt="screenshot"/>
 
 ## Getting Started
 1. Download the [latest release](https://github.com/narinderbisht/contact-form-7-country-list-with-flags/archive/master.zip).
